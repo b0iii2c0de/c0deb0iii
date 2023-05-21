@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, My name is <a href="https://c0deb0iii.github.io/rsschool-cv/" target="_blank">Slava!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Typescript & Rust guru, these techs I use to solve frontend/backend needs in crypto domain!</h3>
+<h3 align="center">I'm Typescript & Rust guru, these techs I use to solve frontend/backend needs in crypto domain!🪙</h3>
 
 <!--
 **c0deb0iii/c0deb0iii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
