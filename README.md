@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world, My name is Slava! I'm Typescript & Rust guru, these techs I use to solve frontend/backend needs in crypto domain! 😼 👋
 
 <!--
 **c0deb0iii/c0deb0iii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
