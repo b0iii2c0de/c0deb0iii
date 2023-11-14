@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, <a href="https://c0deb0iii.github.io/rsschool-cv" target="_blank">c0de b0iii</a> is here! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm JavaScript (SvelteKit, Nuxt 3, Node.js, Deno) & Rust guru, these techs I use to solve frontend/backend needs in crypto domain!🪙</h3>
+<h3 align="center">I'm JavaScript (SvelteKit, Nuxt 3, Node.js, Deno) guru, these techs I use to solve frontend/backend needs in crypto domain!🪙</h3>
 
 <!--
 **c0deb0iii/c0deb0iii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
